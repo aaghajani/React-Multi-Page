@@ -3,9 +3,8 @@
 <center><a href="https://react.siteintech.ir/101/" target="_blank">React Portfolio Multi Page : Demo</a></center>
 
 # ☑ Information
-todo app with react.js
-complete and useful program.
-A React todo application allows users to create data, read data based on search queries, easily modify data through the update operation, and delete the data when not needed.
+React Portfolio Multi Page
+It is a useful multi page program. In this program, the react router dom and links is used.
 
 # ☑ Built With
 [React](https://reactjs.org/) / [JavaScript](https://www.w3schools.com/js/) / [Bootstrap](https://getbootstrap.com/)
