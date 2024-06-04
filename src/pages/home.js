@@ -12,7 +12,7 @@ const HomePage = () => {
         <CarouselComponent />
         <FourPostComponent defaultData={defaultData} />
 
-        <div className="row g-5">
+        <div className="row">
           <div className="col-md-8">
             <ArticleComponent />
           </div>
