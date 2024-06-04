@@ -8,7 +8,7 @@ const SinglePage = (props) => {
       <main className="container">
         <TitleComponent title={props.title} />
 
-        <div className="row g-5">
+        <div className="row">
           <div className="col-md-8">
             <article className="blog-post m-0 py-4 border-top">
               <p>{props.content}</p>
